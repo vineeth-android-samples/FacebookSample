@@ -13,6 +13,9 @@ public class FacebookUser {
 		@Override
 		public String toString() {
 		// TODO Auto-generated method stub
+
+		// new line added
+
 		return String.format("first: %s \nbirthday: %s \nlocation: %s", first_name,birthday,location);
 			
 		
